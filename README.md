@@ -25,4 +25,4 @@ I chose the dataset of Seattle Airbnb to better understand the customer's behavi
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available (https://www.kaggle.com/datasets/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
