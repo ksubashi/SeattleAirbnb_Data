@@ -24,6 +24,7 @@ I chose the dataset of Seattle Airbnb to better understand the customer's behavi
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
+The main findings of the code can be found at the post available [here](https://medium.com/@subashiklajbi/mastering-seattles-airbnb-pricing-and-tourist-demand-8ac714ddac6f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
